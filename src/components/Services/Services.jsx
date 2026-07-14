@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import services from "./servicesData";
+import services from "./ServicesData";
 import ServiceCard from "./ServiceCard";
 
 const Services = () => {
