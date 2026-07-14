@@ -31,7 +31,7 @@ A modern, responsive, and user-friendly Dental Clinic Website built with React.j
 
 ## 🚀 Live Demo
 
-(Add your Vercel/Netlify link here)
+https://saramddental-clinic.netlify.app/
 
 ## 💻 Installation
 
